@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: rgb(198, 198, 212);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.input-section {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input-section input, .input-section button {
+  padding: 10px;
+  font-size: 1rem;
+  flex: 1;
+}
+
+
+.assignment-list {
+  list-style: none;
+  padding: 0;
+}
+
+.assignment-list li {
+  padding: 8px;
+  background: #eaeaea;
+  margin-bottom: 8px;
+  border-radius: 5px;
+}
+
