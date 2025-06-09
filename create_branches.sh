@@ -22,6 +22,3 @@ do
   git push -u origin $branch
   git checkout master
 done
-
-echo "✅ All branches created and pushed!"
-i
