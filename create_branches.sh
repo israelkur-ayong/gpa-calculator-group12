@@ -23,5 +23,3 @@ do
   git checkout master
 done
 
-echo "✅ All branches created and pushed!"
-i
